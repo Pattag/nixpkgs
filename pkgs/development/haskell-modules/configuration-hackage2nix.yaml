@@ -6173,7 +6173,6 @@ broken-packages:
   - hsgnutls
   - hsgnutls-yj
   - hsgsom
-  - HSH
   - HsHaruPDF
   - HSHHelpers
   - HsHTSLib
